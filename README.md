@@ -8,11 +8,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&family=Waiting+for+the+Sunrise&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/slick.css">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script>
-        $(document).ready(function(){
 </head>
 <header class="top_header">
         <div class="wrapper">
@@ -30,17 +25,6 @@
                 <ul>
                     <li>short code</li>
                     <li>deadline</li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </nav>
-            <nav class="mobile_nav">
-                <span class="open">Open Menu</span>
-                <ul class="mobile">
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="menu.html">Menu</a></li>
-                    <li><a href="shop.html">Shop</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
