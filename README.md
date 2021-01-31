@@ -13,28 +13,14 @@
     <script src="js/scripts.js"></script>
     <script>
         $(document).ready(function(){
-            //Testimonial slider
-            $('.testimonials_slider').slick({
-                arrows: false,
-                dots: true,
-            });
-
-            //Top slider
-            $('.homeslider').slick({
-                prevArrow:'<button type="button" class="slick-prev"></button>',
-                nextArrow:'<button type="button" class="slick-next"></button>'
-            });
-        });
-    </script>
-    <title>Smoothie</title>
 </head>
 <header class="top_header">
         <div class="wrapper">
             <nav class="left_nav">
                 <ul>
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li>Home</li>
+                    <li>Windows7</li>
+                    <li>Layout</li>
                 </ul>
             </nav>
             <a href="#" class="logo">
@@ -42,8 +28,8 @@
             </a>
             <nav class="right_nav">
                 <ul>
-                    <li><a href="menu.html">Menu</a></li>
-                    <li><a href="shop.html">Shop</a></li>
+                    <li>short code</li>
+                    <li>deadline</li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
