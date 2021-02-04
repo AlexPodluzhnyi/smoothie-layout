@@ -14,6 +14,8 @@
             <a href="#" class="logo">
                 <img src="img/logo.png" alt="logo" srcset="img/logo@2x.png 2x">
             </a>
+            <br>
+            <br>
             <nav class="left_nav">
                 <ul>
                     <li>Smoothie Layout</li>
