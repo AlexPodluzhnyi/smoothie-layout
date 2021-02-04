@@ -10,22 +10,16 @@
     <link rel="stylesheet" href="css/slick.css">
 </head>
 <header class="top_header">
-        <div class="wrapper" style="position: relative; padding: 10px; border: 1px solid #000; background: #fc0; height: 500px;">
+        <div class="wrapper">
             <a href="#" class="logo">
                 <img src="img/logo.png" alt="logo" srcset="img/logo@2x.png 2x">
             </a>
             <nav class="left_nav">
                 <ul>
-                    <li>Home</li>
-                    <li>Windows7</li>
-                    <li>Layout</li>
-                </ul>
-            </nav>
-            <nav class="right_nav">
-                <ul>
-                    <li>short code</li>
-                    <li>deadline</li>
-                    <li>Contact</a></li>
+                    <li>Smoothie Layout</li>
+                    <li>Responsive Layout</li>
+                    <li>from Figma</li>
+                    <li>with slick-slider</li>
                 </ul>
             </nav>
         </div>
