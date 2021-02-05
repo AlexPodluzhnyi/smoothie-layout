@@ -18,7 +18,7 @@
             <br>
             <nav class="left_nav">
                 <ul>
-                    <li><h1>Smoothie online store layout</h1></li>
+                    <li><h3>Smoothie online store layout</h3></li>
                     <li>Responsive Layout</li>
                     <li>from Figma</li>
                     <li>with slick-slider</li>
